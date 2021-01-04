@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/xsl" href="expChemin.xsl"?>
+
+<livre titre="Mon livre">
+    <auteurs>
+        <auteur nom="nom1" prenom="prenom1"/>
+        <auteur nom="nom2" prenom="prenom2"/>
+    </auteurs>
+    <sections>
+        <section titre="Section1">
+            <chapitre titre="Chapitre1">
+                <paragraphe>premier parag </paragraphe>
+                <paragraphe>deuxième parag </paragraphe>
+            </chapitre>
+        </section>
+        <section titre="Section2">
+            <chapitre titre="Chapitre2">
+                <paragraphe>parag 1 </paragraphe>
+                <paragraphe>parag 2</paragraphe>
+                <conclusion>conclu</conclusion>
+            </chapitre>
+        </section>
+    </sections>
+</livre>
+
+
